@@ -1,5 +1,4 @@
 version: 0.2
-- echo At the top of the buildspec file.
 phases:
   install:
     runtime-versions:
